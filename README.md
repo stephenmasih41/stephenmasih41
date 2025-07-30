@@ -26,18 +26,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 💻 Featured Projects
-
-### [VanLife SPA](https://github.com/stephenmasih41/vanlife) 
-🚐 React Router v6 | Dynamic Data | Responsive UI  
-
-### [Leads Tracker Chrome Extension](https://github.com/stephenmasih41/leads-tracker)
-🔖 CRUD Functionality | localStorage | Chrome API
-
-### [Pokémon Search App](https://github.com/stephenmasih41/pokemon-search)
-🔍 REST API Integration | Filter/Search UI
 
 ---
 
